@@ -1,2 +1,4 @@
 # Data_analyst
-Yandex_Practicum_projects
+## Yandex_Practicum_projects
+ 
+1) Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов
