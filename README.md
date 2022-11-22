@@ -49,7 +49,7 @@
 
 **Инструменты и навыки:** `SQL` `PostgreSQL`   
   
-   7) [Анализ убытков приложения ProcrastinatePRO+]
+   7) [Анализ убытков приложения ProcrastinatePRO+](https://github.com/LizaVet23/Data_analyst/tree/main/Анализ%20убытков%20приложения%20ProcrastinatePRO%2B)
  
 **Задача:**  
 
